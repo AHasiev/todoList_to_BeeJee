@@ -1,0 +1,10 @@
+.pagination {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+.pageItem:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}

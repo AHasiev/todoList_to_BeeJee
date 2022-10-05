@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 25px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    width: 400px;
+}
+
+.exit {
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    margin-left: 487px;
+    border-radius: 15px;
+    font-size: 15px;
+}

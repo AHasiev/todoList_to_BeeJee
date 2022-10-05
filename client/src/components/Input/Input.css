@@ -1,0 +1,38 @@
+.input_conteiner {
+  display: flex;
+  padding-bottom: 15px;
+  padding-top: 40px;
+  width: 70%;
+  height: 45px;
+}
+
+ul {
+  font-size: 30px;
+  list-style-type: none;
+  text-align: center;
+}
+
+.input_conteiner form {
+  display: flex;
+}
+
+.input_conteiner button {
+  background-color: black;
+  color: white;
+  padding: 10px 30px;
+  border: none;
+  margin-left: 15px;
+  border-radius: 15px;
+  font-size: 15px;
+}
+
+input placeholder {
+  font-size: 18px;
+}
+input {
+  border: 1px solid black;
+  border-radius: 15px;
+  font-size: 15px;
+  padding-left: 15px;
+  width: 355px;
+}

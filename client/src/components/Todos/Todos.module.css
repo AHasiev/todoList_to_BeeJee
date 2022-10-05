@@ -1,0 +1,35 @@
+.todo {
+    display: flex;
+    /* height: 50px; */
+    justify-content: center;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px; 
+    justify-content: space-between;
+}
+.selected {
+    background-color: red;
+}
+.s2{
+    background-color: blue;
+}
+
+.infoUser {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.mainInfo {
+    width: 75%;
+}
+
+.sortBtn {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.btnLeftCard {
+
+ margin: 20px;
+}
